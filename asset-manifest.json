@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vuthy-portfolio/static/css/main.10ab54ca.css",
+    "main.js": "/vuthy-portfolio/static/js/main.3ac5b285.js",
+    "static/js/453.95b40626.chunk.js": "/vuthy-portfolio/static/js/453.95b40626.chunk.js",
+    "static/media/about.jpg": "/vuthy-portfolio/static/media/about.fe00e699a600eb139611.jpg",
+    "static/media/Vuthy-Cv.pdf": "/vuthy-portfolio/static/media/Vuthy-Cv.76e98eec759f1dd81dbb.pdf",
+    "static/media/profile.jpg": "/vuthy-portfolio/static/media/profile.6e3089156c7a99ac119a.jpg",
+    "static/media/testimonial3.png": "/vuthy-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/vuthy-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/vuthy-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/vuthy-portfolio/index.html",
+    "main.10ab54ca.css.map": "/vuthy-portfolio/static/css/main.10ab54ca.css.map",
+    "main.3ac5b285.js.map": "/vuthy-portfolio/static/js/main.3ac5b285.js.map",
+    "453.95b40626.chunk.js.map": "/vuthy-portfolio/static/js/453.95b40626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ab54ca.css",
+    "static/js/main.3ac5b285.js"
+  ]
+}
