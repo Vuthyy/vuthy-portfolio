@@ -47,10 +47,10 @@
 }
 
 .contact__button {
-  color: var(--title-color);
+  color: var(--text-color);
   font-size: var(--small-font-size);
   display: inline-flex;
-  justify-content: center;
+  align-items: center;
   column-gap: 0.25rem;
 }
 

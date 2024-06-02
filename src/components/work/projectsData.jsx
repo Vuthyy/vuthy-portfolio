@@ -36,18 +36,3 @@ export const projectsData = [
     category: "web",
   },
 ];
-
-export const projectsNav = [
-  {
-    name: "all",
-  },
-  {
-    name: "web",
-  },
-  {
-    name: "app",
-  },
-  {
-    name: "design",
-  },
-];
